@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-datastore/#history
 
+## [1.13.0](https://www.github.com/googleapis/python-datastore/compare/v1.12.0...v1.13.0) (2020-05-11)
+
+
+### Features
+
+* Create CODEOWNERS ([#28](https://www.github.com/googleapis/python-datastore/issues/28)) ([0198419](https://www.github.com/googleapis/python-datastore/commit/0198419a759d4d3932fa92c268772f18aa29e2ca))
+
 ## [1.12.0](https://www.github.com/googleapis/python-datastore/compare/v1.11.0...v1.12.0) (2020-04-07)
 
 
